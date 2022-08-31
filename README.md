@@ -7,7 +7,8 @@ Q3. Introduce ONE selected “Data Set” from the [awesome-datascience] GitHub 
 Enigma holds incredible potential. It allows users to predict basic factors like companies revenue, growth and health. This helps financiers/ investors and mitigates their risks. Also, enigma enables us to predict micro-industries’s  behaviour under unexpected conditions like recession, natural disaster or pandemics. This is a completely unexplored field because of lack but Enigma might change the game now!
 
 Q4. Introduce ONE selected “free-data-science-book” with its URL and author/institute information. Explain briefly why you are interested in this book.
-> Book name: An Introduction to Data Science
-> Author: Jeffrey Stanton 
-> University: Syracuse University
+
+Book name: An Introduction to Data Science
+Author: Jeffrey Stanton 
+University: Syracuse University
 
