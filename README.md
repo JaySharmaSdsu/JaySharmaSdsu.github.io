@@ -11,6 +11,6 @@ Q4. Introduce ONE selected “free-data-science-book” with its URL and author/
 >Book name: An Introduction to Data Science
 >Author: Dr.Jeffrey Stanton 
 >University: Syracuse University
->url: http://www.odbms.org/wp-content/uploads/2014/05/DataScienceBookV3.pdf
+>[Book](http://www.odbms.org/wp-content/uploads/2014/05/DataScienceBookV3.pdf)
 
 > Introduction to Data Science by Jeffrey Stanton is a simple, easy to follow guide to the world of Data Science. It's not math heavy and gives relatable examples, which makes this an ideal book for any layman. Book covers central limit theorem and law of large from a Data Scientist's point of view, which is a bit unorthodox. The book utilizes R programming language, which is open-sourced and easier than traditional programming languages like Python and Scala. Furthermore, it covers tiddyverse package in depth and there are loads of simple exercises to boost confidence. All in all, I would higly recommend this book to anyone looking to enter the world of data science.
